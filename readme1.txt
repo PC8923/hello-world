@@ -1,2 +1,1 @@
-Hello!
-There
+print("Hello there.")
